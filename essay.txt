@@ -1,0 +1,122 @@
+Hong Kong’s Importance in International Finance Since 1997
+Hong Kong is an important place for banking, investment and international business.
+Companies use its markets to raise money and investors use them to buy shares and other
+financial products. Its connection to mainland China is a major reason for its importance.
+However, Hong Kong also has its own currency and a different legal system. This makes it
+useful to businesses that want to work with China through a system they know better and have
+more faith in. Since the handover in 1997, Hong Kong has kept many of its financial systems
+while building stronger links with the mainland. These links have created opportunities but they
+have also brought risks for the outsiders.
+Hong Kong’s financial system was already developed before the 1997 handover. One
+important part was the Linked Exchange Rate System which began in 1983. This made it so the
+Hong Kong dollar is pegged to the United States dollar. The arrangement continued after Britain
+handed Hong Kong back to China in 1997 (Hong Kong Monetary Authority [HKMA], 2024).
+Thanks to it, businesses did not have to start using a new currency or adjust to a completely
+different exchange rate system. This helped keep things more stable during a major political
+change. Although Hong Kong's government changed, many of the systems used by banks and
+businesses remained in place.
+The Basic Law helped maintain these systems. It sets out the main rules for how Hong
+Kong is governed. Article 8 allows common law and other existing laws to continue with certain
+conditions. Article 109 says that the government should support Hong Kong's position as an
+international financial centre. Articles 110-112 cover its financial policies, its currency and the
+free movement of money (Basic Law of the Hong Kong Special Administrative Region of the
+People’s Republic of China, 1990, arts. 8, 109–112). These rules are important for businesses.
+Before investing, people need to know how their money, investments and properties will be
+protected. They also need to know whether they can move their money into and out of Hong
+Kong without any restrictions.
+The link to the United States dollar supports Hong Kong's international business. Under
+the present system, one United States dollar is worth between 7.75 HKD and 7.85 HKD (HKMA,
+2024). This keeps the exchange rate within a small range. It makes planning easier for
+companies that use both currencies because they face less uncertainty about exchange rate
+changes. Also, having the Hong Kong dollar pegged to USD has its flaws: high United States
+interest rates can make borrowing expensive in Hong Kong. Because the Hong Kong dollar is
+linked to the US dollar, local interest rates follow US rates, although they are also affected by
+local market conditions. This can be a problem when the two economies are in different
+economic situations. For example, the United States may keep rates high to slow down the
+price increases and inflation, while Hong Kong's businesses could benefit from cheaper loans.
+Higher borrowing costs can make companies delay their expansions and leave households with
+less money to spend if their mortgages rise. Hong Kong cannot freely lower interest rates to
+support its own local economy while keeping both the currency link and the free movement of
+money. The system therefore offers a more stable exchange rate, but gives Hong Kong less
+freedom to respond to local economic problems.
+After 1997, Hong Kong’s financial connections with mainland China grew stronger. One
+important example was the wider use of the renminbi, China’s currency. In 2004 banks in Hong
+Kong were allowed to offer personal renminbi accounts. This meant that customers could keep
+money in renminbi in a Hong Kong bank account. In 2009, a trial programme allowed certain
+cross-border trade payments to be made in renminbi (Cockerell & Shoory, 2012). Businesses
+covered by the programme could therefore use Chinese currency to pay for goods traded
+across borders. These links later grew beyond bank accounts and trade payments. The Stock
+Connect programmes gave overseas investors a way to buy selected mainland Chinese shares
+through Hong Kong. For example, an international investment fund could use a broker in Hong
+Kong to buy shares listed in Shanghai or Shenzhen. Shanghai - Hong Kong Stock Connect
+opened in November 2014, followed by Shenzhen - Hong Kong Stock Connect in December
+2016. The programmes work in both directions. Mainland investors can also buy selected
+shares listed in Hong Kong. This gives investors a bigger choice and exposure to both mainland
+and Hong Kong markets. Bond Connect created a similar system for bonds in July 2017. At first
+the programme allowed overseas investors to trade bonds in mainland China’s interbank bond
+market. In 2021 a second channel opened, allowing mainland investors to trade bonds outside
+the mainland through Hong Kong (Hong Kong Exchanges and Clearing Limited, 2024).
+Together, these programmes made Hong Kong a more important link between mainland
+markets and international markets. They also show that Hong Kong's financial role depends on
+cooperation with mainland China. Hong Kong cannot decide by itself which mainland markets
+should be opened to Hongkongers and foreign investors. The authorities on both sides need to
+agree on how the connection works. This creates more opportunities for Hong Kong, but it also
+means that part of its success depends on decisions made in mainland China. Its separate
+system is useful because it connects markets with different rules. If these differences
+disappeared or the connection became less useful, Hong Kong would need to do something
+else to attract foreign investors and money.
+Finance is also a large part of Hong Kong's own economy. In 2024, financial services
+accounted for 26.2% of its GDP and employed around 265,000 people, or 7.2% of total
+employment (Census and Statistics Department, 2025). This includes banking, insurance, stock
+brokerage, asset management, and other financial services. These figures show that finance is
+a large part of Hong Kong's economy while employing a much smaller share of workers
+compared to other key industries. Therefore, its success matters to the whole economy, even
+when most of the people in Hong Kong work in different fields. A strong financial sector does not
+automatically mean that everyone has the same opportunities. This difference is important when
+looking at everyday life in Hong Kong. The city can attract international investors and funds
+while local people still struggle with the cost of living. The International Monetary Fund (IMF,
+2025) identifies housing affordability as a continuing problem which adds to inequality. This does
+not mean that finance alone causes expensive housing. However, it shows that financial
+success and a comfortable life for residents are not always the same thing. Someone earning a
+high salary in finance may experience the city completely differently from someone in a
+lower-paid job. Government policies still matter in helping more people benefit from economic
+growth. The closer connections with mainland China also bring risks. The IMF (2025) describes
+Hong Kong's financial system as strong, but warns that bigger mainland links increase its
+exposure to problems within China's economy. These include difficulties in the real estate
+market and tensions between countries. Connections that bring investment into Hong Kong can
+also carry financial problems. This does not mean that Hong Kong will lose its financial
+importance. However, it means that banks and regulators need to watch and weigh these risks
+carefully. Access to a larger market creates opportunities but relying heavily on that market also
+makes it harder to avoid its problems.
+Trust is another important part of Hong Kong's financial position. Businesses need to
+believe that contracts will be respected and that legal disputes will be handled fairly. Written
+laws are important, but investors also look at how these laws work in practice. A company
+putting their funds into a business for several years needs confidence that the rules will be
+applied consistently and they won't be changed. Hong Kong's separate legal system can help
+provide the confidence needed for outsiders. Its value therefore comes from more than access
+to China. It also comes from providing an environment where international businesses feel
+comfortable making decisions and keeping their investments.
+Hong Kong has also tried to develop newer areas of finance. In June 2023, a new
+licensing system began for centralised virtual asset trading platforms, including platforms used
+to trade cryptocurrencies. The Securities and Futures Commission (2023b) explained that
+licensed platforms could serve ordinary investors under rules designed to protect them. These
+included checks on customers, platform management and the assets available for trading. This
+shows how Hong Kong is trying to attract new financial businesses while keeping them under
+supervision. It also creates another reason for firms to consider Hong Kong when deciding
+where to operate. However, attracting centralized crypto businesses is only one part of the
+ecosystem. Tokenised securities remain subject to the existing rules for traditional securities. In
+its November 2023 guidance, the Securities and Futures Commission (2023a) explained that
+intermediaries must also manage the additional risks created by tokenisation, including risks
+involving ownership records, cybersecurity and blockchain networks. The required controls
+depend on the technology and activities involved. This connects newer financial services with
+the older foundations of Hong Kong’s success. Whether a business deals with shares, bonds or
+digital assets, trust and reliable rules remain important. New technology may change the
+products being traded, but it does not remove the need for investor protection.
+Overall, Hong Kong’s importance in finance has developed through both continuity and
+change since 1997. Its own currency and separate legal system continued, while its financial
+links with mainland China became stronger. These links created opportunities for banks,
+companies and investors, but also increased exposure to mainland economic problems and
+political decisions. The growth of finance has not removed the difficulties faced by all residents
+either. Hong Kong’s future depends on keeping the services and institutions that make it useful
+to international business. Its connection to China is important, but the differences between their
+systems are also part of what makes Hong Kong valuable.
